@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+tqdm
+requests
+python-dotenv
+scikit-learn
+openai
+diskcache
